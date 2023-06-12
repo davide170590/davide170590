@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **davide170590/davide170590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +16,10 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://github.com/DavideDev1705/DavideDev1705/blob/0ff67424bb515606e66987d5e721ee8e3f42b529/header.png">
 </div>
+Hi everyone, I'm Davide from Italy.
+Now I'm living in Sweden and work as DevOps Engineer III. 
+I also like to create docus about fishing, travels and animals.
+
+<hr>
+<h2> Frontend </h2>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
